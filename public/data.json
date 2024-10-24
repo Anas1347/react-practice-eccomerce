@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "product_name": "Wireless Headphones",
+      "price": 59.99,
+      "description": "High-quality wireless headphones with noise-cancellation feature.",
+      "category": "Electronics",
+      "stock": 120,
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-10-20"
+    },
+    {
+      "id": 2,
+      "product_name": "Smartwatch Pro",
+      "price": 129.99,
+      "description": "Advanced smartwatch with fitness tracking and heart rate monitor.",
+      "category": "Wearables",
+      "stock": 85,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-09-18"
+    },
+    {
+      "id": 3,
+      "product_name": "Bluetooth Speaker",
+      "price": 39.99,
+      "description": "Portable Bluetooth speaker with rich bass and 10-hour battery life.",
+      "category": "Audio",
+      "stock": 200,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-08-30"
+    },
+    {
+      "id": 4,
+      "product_name": "4K UHD Monitor",
+      "price": 399.99,
+      "description": "27-inch 4K UHD monitor with HDR support and ultra-thin bezels.",
+      "category": "Computers",
+      "stock": 45,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-07-15"
+    },
+    {
+      "id": 5,
+      "product_name": "Gaming Keyboard",
+      "price": 89.99,
+      "description": "Mechanical gaming keyboard with RGB lighting and programmable keys.",
+      "category": "Accessories",
+      "stock": 150,
+      "rating": 4.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-09-10"
+    },
+    {
+      "id": 6,
+      "product_name": "Laptop Stand",
+      "price": 29.99,
+      "description": "Adjustable laptop stand for ergonomic working positions.",
+      "category": "Accessories",
+      "stock": 100,
+      "rating": 4.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-10-01"
+    },
+    {
+      "id": 7,
+      "product_name": "USB-C Hub",
+      "price": 24.99,
+      "description": "Multi-port USB-C hub with HDMI, USB 3.0, and Ethernet.",
+      "category": "Accessories",
+      "stock": 250,
+      "rating": 4.4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-10-05"
+    },
+    {
+      "id": 8,
+      "product_name": "Smart Thermostat",
+      "price": 149.99,
+      "description": "Smart thermostat with remote control and energy-saving features.",
+      "category": "Home",
+      "stock": 60,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-09-25"
+    },
+    {
+      "id": 9,
+      "product_name": "Wireless Charger",
+      "price": 19.99,
+      "description": "Fast wireless charger compatible with multiple devices.",
+      "category": "Accessories",
+      "stock": 300,
+      "rating": 4.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-08-15"
+    },
+    {
+      "id": 10,
+      "product_name": "Action Camera",
+      "price": 299.99,
+      "description": "4K action camera with waterproof casing and image stabilization.",
+      "category": "Cameras",
+      "stock": 50,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu11xwzI4So4sLM23SFZHXxkIss-DBf0mlQ&s",
+      "posted_date": "2024-07-22"
+    }
+  ]
+  
